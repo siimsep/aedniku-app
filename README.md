@@ -1,0 +1,2 @@
+# aedniku-app
+diplomitöö
