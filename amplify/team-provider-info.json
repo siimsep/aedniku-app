@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aed-dev-103424-authRole",
+      "UnauthRoleArn": "arn:aws:iam::912522422589:role/amplify-aed-dev-103424-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::912522422589:role/amplify-aed-dev-103424-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-aed-dev-103424-deployment",
+      "UnauthRoleName": "amplify-aed-dev-103424-unauthRole",
+      "StackName": "amplify-aed-dev-103424",
+      "StackId": "arn:aws:cloudformation:eu-north-1:912522422589:stack/amplify-aed-dev-103424/8e4e7430-c3d5-11ed-a6cb-0a8fb2b67304",
+      "AmplifyAppId": "d385q3tsmluxhu"
+    },
+    "categories": {
+      "auth": {
+        "aedf7ef8d01": {}
+      },
+      "api": {
+        "aed": {}
+      }
+    }
+  }
+}
