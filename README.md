@@ -1,3 +1,5 @@
+[Discontinued, managed to mess up my AWS Appsync API. See e-aed repository instead.](https://github.com/siimsep/e-aed)
+
 # aedniku-app
 diplomitöö
 
